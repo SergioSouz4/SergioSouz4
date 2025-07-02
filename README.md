@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Backend+Developer;DevOps+Explorer;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=FullStack+Developer;DevOps+Explorer;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🛸 Welcome to my Universe! 🌌🧑‍🚀✨</h1>
@@ -47,17 +47,17 @@ Java • Spring Boot • Spring Data JPA • H2 Database • Lombok • Postman
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guibonf1m&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibonf1m&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SergioSouz4&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSouz4&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guibonf1m&label=Profile%20views&color=0e75b6&style=flat" alt="guibonf1m" />
+  <img src="https://komarev.com/ghpvc/?username=SergioSouz4&label=Profile%20views&color=0e75b6&style=flat" alt="SergioSouz4" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my universe! 🌐<br>
+  <strong>Thanks for visiting my universe! 🌌<br>
   May your code compile on the first try. 🧠⚡</strong>
 </p>
