@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Backend+Developer;DevOps+Explorer;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Welcome to my Universe! 🧑‍🚀</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">🛸 Welcome to my Universe! 🌌🧑‍🚀✨</h1>
+<h3 align="center">FullStack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 ```yaml
-Name: Guilherme Bonfim
+Name: Sérgio Souza
 Role: Software Developer
-Location: Brasil | São Paulo
+Location: Brasil | Bahia
 Mission: Create scalable, secure and high-performance software
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
@@ -20,32 +20,29 @@ Mission: Create scalable, secure and high-performance software
 Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2024, venho estudando e trabalhando em
 projetos envolvendo APIs RESTful, Java e Spring, sempre focado em construir soluções eficientes e inovadoras.
 
-- 🧑‍💻 Participante do Programa Desenvolva+ (Ada Tech & Mercado Livre)
-- 🧑‍💻 Participante do Oracle Next Education (ONE) (Oracle & Alura Latam)
-
 ```
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguibonfim)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guibonf1m)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiosouza4142/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioSouz4))
 
 ---
 
 ### 🧑‍🚀 Projetos em Destaque
-🔧 [**API de Gerenciamento de Tarefas**](https://github.com/guibonf1m/task-api.git)
+✂️ [**Sistema de Agendamento para Barbearia**](https://github.com/SergioSouz4/barbearia.app/tree/main))
 
 **Descrição:**  
-API RESTful para cadastrar, atualizar e listar tarefas, com validação e tratamento de erros.
+API RESTful para gerenciamento de agendamentos em barbearias. Permite o cadastro de clientes, barbeiros, serviços e agendamentos com filtros por data, status e profissional. Conta com validações, tratamento de exceções e estrutura modular baseada em boas práticas do Spring.
 
 **Tecnologias:**  
-Java, Spring Boot, JPA, H2 Database, Postman
+Java • Spring Boot • Spring Data JPA • H2 Database • Lombok • Postman
 
 **Próximo passo:**  
-Implementar autenticação JWT e testes automatizados.
-
----
+➤ Adicionar validações mais avançadas no agendamento (ex: impedir horários sobrepostos)  
+➤ Melhorar mensagens de erro e tratamento de exceções  
+➤ Criar tela ou interface para testar os endpoints com frontend ou Swagger  
 
 ### 📊 GitHub Stats
 
